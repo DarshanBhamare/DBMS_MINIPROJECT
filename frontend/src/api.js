@@ -7,5 +7,5 @@
 import axios from "axios";
 
 export const api = axios.create({
-  baseURL: "https://dbms-miniproject-y9uw.onrender.com/api"
+  baseURL: "https://dbms-miniproject-fv6b.onrender.com/"
 });
