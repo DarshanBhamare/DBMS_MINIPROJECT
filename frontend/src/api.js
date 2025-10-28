@@ -1,5 +1,11 @@
+// import axios from "axios";
+
+// export const api = axios.create({
+//   baseURL: "http://localhost:5000/api"
+// });
+
 import axios from "axios";
 
 export const api = axios.create({
-  baseURL: "http://localhost:5000/api"
+  baseURL: "https://dbms-miniproject-y9uw.onrender.com/api"
 });
